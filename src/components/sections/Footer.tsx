@@ -13,7 +13,7 @@ export const Footer: React.FC = () => {
             <a href="mailto:ross@uhray.com" className="inline-flex items-center rounded bg-mana-gold px-5 py-2 font-medium text-mana-black hover:bg-mana-gold/90 focus:outline-none focus:ring-2 focus:ring-mana-gold focus:ring-offset-2 focus:ring-offset-mana-black transition">
               Email Me
             </a>
-            <a href="/RossJamesonResume.pdf" className="inline-flex items-center rounded border border-mana-gold/50 px-5 py-2 font-medium text-mana-gold hover:bg-mana-gold/10 focus:outline-none focus:ring-2 focus:ring-mana-gold focus:ring-offset-2 focus:ring-offset-mana-black transition">
+            <a href={`${import.meta.env.BASE_URL}RossJamesonResume.pdf`} download className="inline-flex items-center rounded border border-mana-gold/50 px-5 py-2 font-medium text-mana-gold hover:bg-mana-gold/10 focus:outline-none focus:ring-2 focus:ring-mana-gold focus:ring-offset-2 focus:ring-offset-mana-black transition">
               Download Resume PDF
             </a>
             <a href="https://www.linkedin.com/in/ross-jameson-891047186/" target="_blank" rel="noopener" className="text-mana-gold/80 hover:text-mana-gold transition-colors">LinkedIn</a>
