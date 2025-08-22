@@ -13,10 +13,13 @@ const roles: Role[] = [
     title: 'Software Developer',
     period: '2021 – Present',
     bullets: [
-      'Managing the CDLLife Mobile App in Angular, enhancing user engagement through new features and performance optimizations.',
-      'Leading effort in increasing our users and impressions ',
+      'Lead engineering for CDLLife mobile app (largest trucking social platform by active users)',
+      'Own GitHub repo governance: branching strategy, PR standards, code reviews, automated checks, and project board prioritization.',
+      'Maintain end‑to‑end delivery pipelines (App Store Connect & Google Play) including build signing, versioning, phased rollouts, and crash/metric monitoring.',
+      'Shipped cross‑stack features (frontend + API) improving engagement.',
+      'Drove cross‑functional alignment with design/moderation/leadership.',
+      'Delivered admin & student‑facing tools expanding product ecosystem.',
       'Co-Developed a CDL student website to help potential new truck drivers find cdl trucking schools near them all around the country.',
-      'Collaborated with design teams to prototype gameplay-related tooling accelerating iteration cycles.'
     ]
   },
   {
@@ -24,9 +27,10 @@ const roles: Role[] = [
     title: 'NOC Engineer',
     period: '2019 – 2020',
     bullets: [
-      'Monitoring and maintaining network infrastructure to ensure high availability and performance.',
+      'Maintained and modernized the Netsolus website & customer portal sites (performance, accessibility, SEO).',
       'Responding to incidents and service requests in a timely manner.',
       'Collaborating with cross-functional teams to implement network solutions.',
+      'Developed support ticket interface with real‑time status updates, attachment handling, and role‑based visibility.',
       'Documenting network configurations and procedures for knowledge sharing.',
       'Hosted all small municipality government websites from the U.S. and assisted with regularly scheduled monthly updates to sites.',
     ]
