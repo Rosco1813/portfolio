@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
             <a href="https://github.com/RossJameson?tab=overview&from=2025-08-01&to=2025-08-17" target="_blank" rel="noopener" className="text-mana-gold/80 hover:text-mana-gold transition-colors">GitHub</a>
           </div>
         </div>
-        <p className="text-xs text-mana-white/40 mt-8">&copy; {new Date().getFullYear()} Ross Jameson. Thematic styling inspired by fantasy TCG aesthetics.</p>
+        <p className="text-xs text-mana-white/40 mt-8">&copy; {new Date().getFullYear()} Created by Ross Jameson</p>
       </div>
     </footer>
   );
