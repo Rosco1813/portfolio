@@ -13,7 +13,7 @@ const roles: Role[] = [
     title: 'Software Developer',
     period: '2021 – Present',
     bullets: [
-      'Lead engineering for CDLLife mobile app (largest trucking social platform by active users)',
+      'Tech lead for the CDLLife mobile app (largest trucking social platform by active users)',
       'Own GitHub repo governance: branching strategy, PR standards, code reviews, automated checks, and project board prioritization.',
       'Maintain end‑to‑end delivery pipelines (App Store Connect & Google Play) including build signing, versioning, phased rollouts, and crash/metric monitoring.',
       'Shipped cross‑stack features (frontend + API) improving engagement.',
